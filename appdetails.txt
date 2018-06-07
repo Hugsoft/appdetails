@@ -4,21 +4,21 @@
 		"name": "Flash Caller",
 		"rating": 5,
 		"package_name": "in.hugsoft.flashcaller",
-		"image": ""
+		"image": "https://github.com/Hugsoft/appdetails/blob/testing/flashcaller.png"
 	},
 
 	{
 		"name": "Speed Contact",
 		"rating": 5,
 		"package_name": "in.hugsoft.speedcontact",
-		"image": ""
+		"image": "https://github.com/Hugsoft/appdetails/blob/testing/speedcontact.png"
 	},
 	
 	{
 		"name": "Hug Shoton",
 		"rating": 5,
 		"package_name": "in.hugsoft.hugshoton",
-		"image": ""
+		"image": "https://github.com/Hugsoft/appdetails/blob/testing/hugshton.png"
 	}
 
 
