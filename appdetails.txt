@@ -1,0 +1,25 @@
+[
+
+	{
+		"name": "Flash Caller",
+		"rating": 5,
+		"package_name": "in.hugsoft.flashcaller",
+		"image": ""
+	},
+
+	{
+		"name": "Speed Contact",
+		"rating": 5,
+		"package_name": "in.hugsoft.speedcontact",
+		"image": ""
+	},
+	
+	{
+		"name": "Hug Shoton",
+		"rating": 5,
+		"package_name": "in.hugsoft.hugshoton",
+		"image": ""
+	}
+
+
+]
